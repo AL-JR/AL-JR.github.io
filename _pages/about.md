@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Lijing Zhu"
+title: "About Alberto Alcocer Jr"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,7 +27,7 @@ Alberto is deeply interested in the intersection of natural language processing 
 
 - **Programming:** Python, Java, JavaScript, SQL
 - **Data Science & ML:** Machine learning, statistical modeling, feature engineering, data visualization
-- **Bioinformatics:** Sequence analysis, gene ontology, hydrolase classification, ORFan research
+- **Bioinformatics:** Sequence analysis, gene ontology, hydrolase classification, ORFan research, Hidden Markov Models
 - **Development:** Full-stack web development, REST APIs, database design
 - **Tools & Frameworks:** Various ML/data science frameworks, bioinformatics pipelines
 
@@ -46,8 +46,8 @@ Alberto is deeply interested in the intersection of natural language processing 
 
 ## Education
 
-**University of Houston–Clear Lake (UHCL)** — Data Science
-**St. Edward's University** — Bioinformatics background
+**University of Houston–Clear Lake (UHCL)** — Master's of Science in Data Science
+**St. Edward's University** — Bachelor's of Science in Bioinformatics
 
 ---
 
