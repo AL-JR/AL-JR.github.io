@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Alberto Alcocer Jr.
 **Houston, TX** · al.alcocer14@gmail.com 
 
 ---
