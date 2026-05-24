@@ -52,20 +52,20 @@ Coursework: Algorithms, Data Structures, Molecular Biology, Applied Statistics, 
 
 ## Experience
 
-**IT Support Technician** — University of Houston–Clear Lake *(May 2024 – Present)*
-Supporting faculty, staff, and students across campus systems with a 99% approval rating.
+**IT Tech Services** — University of Houston–Clear Lake *(2025 – Present)*
+Supporting faculty, staff, and students across campus systems. Maintained a 99% approval rating through consistent, high-quality technical support.
 
 **Medical Records Retrieval Technician** — Advantmed *(2023 – Present)*
-Managed secure retrieval and transmission of Protected Health Information (PHI) across diverse EHR systems, maintaining compliance and audit protocols.
+Managed secure retrieval and transmission of Protected Health Information (PHI) across diverse EHR systems, maintaining compliance and audit protocols. Recognized as one of the fastest technicians in the company, achieving up to 800 records processed in a single day through an efficient, focused work style.
 
 **Full-Stack Developer** — Infosys Ltd. *(Mar 2021 – May 2023)*
-Contributed to enterprise software projects using Java, Spring Boot, and SQL; gained experience with cloud-based microservices.
+Contributed to enterprise software projects using Java, Spring Boot, and SQL; gained experience with cloud-based microservices. Led a 4-person team as the project lead, successfully bringing a password authentication system to production.
 
-**Senior IT Technician** — Dell Technologies *(Jun 2019 – Jul 2020)*
-Delivered top-rated technical support across federal and commercial clients in high-pressure environments.
+**Dell Senior Technician** — Dell Technologies *(Jun 2019 – Jul 2020)*
+Delivered technical support across federal and commercial clients in high-pressure environments. Achieved the highest performance metrics in the history of the department, earning recognition from senior management.
 
 **Bioinformatics Researcher** — St. Edward's University *(Aug 2017 – Apr 2018)*
-Built ML classifiers for metagenomic data; processed field-collected ecological datasets using Python, Pandas, and Scikit-learn.
+Built ML classifiers for metagenomic data; processed field-collected ecological datasets using Python, Pandas, and Scikit-learn. Developed a monocot/dicot plant classifier trained on biological and ecological data collected by fellow university students.
 
 ---
 
