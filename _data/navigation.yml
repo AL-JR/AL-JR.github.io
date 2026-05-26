@@ -11,8 +11,8 @@ main:
   - title: "Courses" # displays academic courses taken
     url: /courses/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /projects/
 
   # - title: "Talks"
   #   url: /talks/  

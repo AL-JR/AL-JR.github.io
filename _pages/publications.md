@@ -1,87 +1,39 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /projects/
+title: "Projects"
 author_profile: true
 ---
-For a fuller and more frequently updated record, please visit my [Google Scholar](https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en) profile.
 
-## 2025
-
-### ETT-CKGE: Efficient Task-Driven Tokens for Continual Knowledge Graph Embedding
-
-**Authors:** **Lijing Zhu**, Qizhen Lan, Qing Tian, Wenbo Sun, Li Yang, Lu Xia, Yixin Xie, Xi Xiao, Tiehang Duan, Cui Tao, et al.  
-**Venue:** *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)*, 2025  
-**Status:** Accepted
-
-<table>
-  <tr>
-    <td style="width: 50%; vertical-align: top; padding-right: 0.75rem;">
-      <img src="{{ '/images/tt_mrr_m.png' | relative_url }}" alt="Comparison efficiency for ETT-CKGE" style="width: 100%; border-radius: 8px;" />
-    </td>
-    <td style="width: 50%; vertical-align: top; padding-left: 0.75rem;">
-      <img src="{{ '/images/ett_ckge_overall_figure.png' | relative_url }}" alt="Overall model figure for ETT-CKGE" style="width: 100%; border-radius: 8px;" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><em>Comparison Table</em></td>
-    <td style="text-align: center;"><em>Overall Model Figure</em></td>
-  </tr>
-</table>
+A selection of research and personal projects in data science, machine learning, and bioinformatics.
 
 ---
 
-### Leveraging Vulnerabilities in Temporal Graph Neural Networks via Strategic High-Impact Assaults
+## Biomedical Relation Extraction – iKraph Extension
 
-**Authors:** Dong Hyun Jeon, **Lijing Zhu**, Haifang Li, Pengze Li, Jingna Feng, Tiehang Duan, Houbing Herbert Song, Cui Tao, and Shuteng Niu  
-**Venue:** *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)*, Boise, ID, USA, 2025  
-**Status:** To appear
+**Type:** Research Project
+**Status:** Ongoing (2026)
+**Tools:** Python, PubMedBERT, HuggingFace Transformers, PyTorch, Knowledge Graphs
 
-![Overall model figure for Temporal GNN Attack paper]({{ '/images/HIA_overall.png' | relative_url }})
-
-
----
-
-### E2CB2former: Effective and Explainable Transformer for CB2 Receptor Ligand Activity Prediction
-
-**Authors:** Xi Xiao, Wentao Wang, Jiacheng Xie, **Lijing Zhu**, Gaofei Chen, Zhengji Li, Tianyang Wang, and Min Xu  
-**Venue:** *International Joint Conference on Neural Networks (IJCNN)*, 2025  
-**Status:** Submitted
-
-![Overall model figure for E2CB2former]({{ '/images/publications/e2cb2former-overview.png' | relative_url }})
-
-
-
-## 2024
-
-### Flexible Memory Rotation (FMR): Rotated Representation with Dynamic Regularization to Overcome Catastrophic Forgetting in Continual Knowledge Graph Learning
-
-**Authors:** **Lijing Zhu**, Dong Hyun Jeon, Wenbo Sun, Li Yang, Chloe Yinxin Xie, and Shuteng Niu  
-**Venue:** *IEEE International Conference on Big Data (IEEE Big Data)*, 2024  
-**Status:** Accepted
-
-![Overall model figure for FMR]({{ '/images/fmr_overall.png' | relative_url }})
-
+Reproducing and extending the iKraph biomedical knowledge graph system (Zhang et al., *Nature Machine Intelligence* 2025) to support automated drug repurposing inference. The project uses PubMedBERT for relation extraction from scientific literature and Probabilistic Semantic Reasoning to identify candidate drug-disease relationships within the knowledge graph. This work aims to validate the original methodology and explore extensions to new biomedical domains.
 
 ---
 
-### HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction
+## Biomedical Paper Summarizer
 
-**Authors:** Xi Xiao, Rui Jiying, Jiacheng Xie, **Lijing Zhu**, Gaofei Chen, Zhengji Li, Tianyang Wang, and Min Xu  
-**Venue:** *International Conference on Neural Information Processing (ICONIP)*, 2024  
-**Status:** Accepted
+**Type:** Personal Project
+**Status:** Completed (2026)
+**Tools:** Python, Streamlit, Claude API
 
-![Overall model figure for HGTDP-DTA]({{ '/images/publications/hgtdp-dta-overview.png' | relative_url }})
+A multimodal research assistant built with Streamlit and the Claude API that analyzes full biomedical research papers, including embedded figures and charts. Users can upload a PDF and receive structured summaries, methodology breakdowns, and figure interpretations. Designed to accelerate literature review for researchers working in data-heavy biomedical fields.
 
-*Upload the model figure to `images/publications/hgtdp-dta-overview.png`.*
+---
 
-## 2023
+## Monocot/Dicot Plant Classifier
 
-### SKGHOI: Spatial-Semantic Knowledge Graph for Human-Object Interaction Detection
+**Type:** Research Project
+**Status:** Completed (2018)
+**Tools:** Python, Pandas, Scikit-learn, SVM
 
-**Authors:** **Lijing Zhu**, Qizhen Lan, Alvaro Velasquez, Houbing Song, Acharya Kamal, Qing Tian, and Shuteng Niu  
-**Venue:** *2023 IEEE International Conference on Data Mining Workshops (ICDMW)*, pages 1186-1193. IEEE, 2023  
-**Status:** Published
+An SVM-based machine learning classifier developed during undergraduate research at St. Edward's University to distinguish monocot and dicot plant species from metagenomic soil data. The training data consisted of ecological and biological samples collected by fellow students through field work. Involved full pipeline development including data cleaning, feature engineering, model training, and evaluation — resulting in a functional classifier submitted as part of the university's bioinformatics research program.
 
-![Overall model figure for SKGHOI]({{ '/images/overall_model.pdf' | relative_url }})
-
-
+---
