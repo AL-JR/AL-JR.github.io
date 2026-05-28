@@ -9,11 +9,11 @@ redirect_from:
 
 ## Bio
 
-Alberto Alcocer Jr. is a data scientist and bioinformatics researcher based in Houston, Texas. He holds a Bachelor of Science in Bioinformatics from St. Edward's University and is currently pursuing a Master of Science in Data Science at the University of Houston–Clear Lake (expected 2027).
+I am a data scientist and bioinformatics researcher based in Houston, Texas. I hold a Bachelor of Science in Bioinformatics from St. Edward's University and am currently pursuing a Master of Science in Data Science at the University of Houston–Clear Lake (expected 2027).
 
-His background spans machine learning, bioinformatics, full-stack development, and cloud infrastructure — built across academic research, enterprise software, and technical support environments. He is particularly interested in applying transformer-based models and knowledge graph reasoning to biomedical problems, including relation extraction from scientific literature and drug repurposing applications.
+My background spans machine learning, bioinformatics, full-stack development, and cloud infrastructure — built across academic research, enterprise software, and technical support environments. I am particularly interested in applying transformer-based models and knowledge graph reasoning to biomedical problems, including relation extraction from scientific literature and drug repurposing applications.
 
-His current research focuses on reproducing and extending **iKraph** (Zhang et al., *Nature Machine Intelligence* 2025) — a biomedical knowledge graph system — using PubMedBERT for relation extraction and Probabilistic Semantic Reasoning for automated drug repurposing inference.
+My current research focuses on reproducing and extending **iKraph** (Zhang et al., *Nature Machine Intelligence* 2025) — a biomedical knowledge graph system — using PubMedBERT for relation extraction and Probabilistic Semantic Reasoning for automated drug repurposing inference.
 
 ---
 
@@ -69,4 +69,4 @@ Built ML classifiers for metagenomic data; processed field-collected ecological 
 
 ---
 
-*Open to research collaborations, AI/ML engineering roles, and computational biology opportunities.*
+*I am open to research collaborations, AI/ML engineering roles, and computational biology opportunities.*
